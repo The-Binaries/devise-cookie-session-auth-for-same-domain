@@ -1,1 +1,2 @@
-# devise-cookie-session-auth-for-same-domain
+# Devise cookie session auth for same domain
+
